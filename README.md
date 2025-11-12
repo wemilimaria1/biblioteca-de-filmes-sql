@@ -36,19 +36,15 @@ Com ela, é possível fazer consultas como:
 - **diretores** → informações sobre diretores
 - **filmes_atores** → tabela de relacionamento entre filmes e atores
 
-## 📸 Prints do Projeto (Mysql Workbench e VS Code) 
+## 📸 Prints do Projeto (Mysql Workbench)
 
-1. Consultar Tabelas:
+1. Consultar Tabelas: **Tabela Diretores**
+![tabela diretores Workbench](tabela_diretores2.jpg)
 
-**Tabela Diretores**
 **Tabela Atores**
+![tabela atores](tabela_atores2.jpg)
+
 **Tabela Filmes**
-
-2. Consultas Simples:
-
+![tabela filmes](tabela_filmes2.jpg)
 
 
-
-- Listar todos os filmes de um ator específico (ex: *Johnny Depp*)  
-- Descobrir quais diretores são de determinado país  
-- Ver os filmes com maior bilheteria ou melhor avaliação  
