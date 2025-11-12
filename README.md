@@ -38,13 +38,37 @@ Com ela, é possível fazer consultas como:
 
 ## 📸 Prints do Projeto (Mysql Workbench)
 
-1. Consultar Tabelas: **Tabela Diretores**
+1. Consultar Tabelas - **Tabela Diretores**
 ![tabela diretores Workbench](tabela_diretores2.jpg)
 
 **Tabela Atores**
+
 ![tabela atores](tabela_atores2.jpg)
 
 **Tabela Filmes**
+
 ![tabela filmes](tabela_filmes2.jpg)
 
+2. Consultas Simples -  **Exemplo de consulta por gênero**
 
+![tabela filme genero romance](filtro_genero.jpg)
+
+**Consulta: Filmes com avaliação acima de 8**
+
+![tabela avalição](filtro_avaliaçao.jpg)
+
+**Consulta: Atores cujo nome começa com 'J'**
+
+![tabela filtro nome](filtro_nome.jpg)
+
+ 3. Join entre Filmes e Atores -  **Consulta: Filmes com o ator Jhonny Depp**
+
+![filmes com ator especifico](filmes_jhony.jpg)
+
+**Consulta: Mostrar ator de filme específico**
+
+![ator filme especifico](filtrofilme_especifico.jpg)
+
+**Consulta: Quantos filmes cada ator cadastrado fez**
+
+![ator e filmes](filme_ator.jpg)
