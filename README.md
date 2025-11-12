@@ -9,11 +9,7 @@ Esse projeto foi criado para fins de aprendizado,  mostrando os conhecimentos qu
 - `biblioteca_filmes.sql` → criação das tabelas e inserção dos dados  
 - `consultas_exemplos.sql` → exemplos de consultas SQL que podem gerar informações relevantes  
 - `README.md` → documentação do projeto  
-- Screenshots do bando de dados
-
- ## ⚙️ Como usar
-🧩 No MySQL Workbench, abra o Workbench e conecte-se ao seu servidor local. Crie um novo schema,
- importe ou copie e execute: `biblioteca_filmes.sql` depois `consultas_exemplos.sql` e rode as consultas que quiser. Se preferir utilizar o Visual Studio Code, instale a extensão MySQL (ou SQLTools), conecte seu banco MySQL local e execute os arquivos .sql diretamente pelo terminal ou pela extensão.
+- Screenshots das tabelas e consultas
 
  ## 🧠 Sobre o Projeto  
 
@@ -26,7 +22,7 @@ A **Biblioteca de Filmes** contém informações completas sobre:
 Com ela, é possível fazer consultas como:
 - Listar todos os filmes de um ator ou diretor específico.
 - Descobrir informações como idade e nascionalidade dos atores ou diretores.
-- Mostrar o ano de produção dos filmes, e mostar os filmes com a maior ou menor bilheteria.
+- Mostrar o ano de produção dos filmes, sinopse, maior ou menor bilheteria.
 - E outras consultas a mais.
 
 ## 🧩 Estrutura das Tabelas
@@ -72,3 +68,14 @@ Com ela, é possível fazer consultas como:
 **Consulta: Quantos filmes cada ator cadastrado fez**
 
 ![ator e filmes](filmes_atores.jpg)
+
+ ## ⚙️ Como usar
+🧩 No MySQL Workbench, abra o Workbench e conecte-se ao seu servidor local. Crie um novo schema,
+importe ou copie e execute: `biblioteca_filmes.sql` depois `consultas_exemplos.sql` e rode as consultas que quiser.
+Se preferir utilizar o Visual Studio Code, instale a extensão MySQL (ou SQLTools), conecte seu banco MySQL local e execute os arquivos .sql diretamente pelo terminal ou pela extensão.
+
+## ✉️ Contato
+Email: — `<wemilimaria1@gmail.com>`  
+LinkedIn: `<https://www.linkedin.com/in/wemili-maria-85a02a387/>`
+
+
