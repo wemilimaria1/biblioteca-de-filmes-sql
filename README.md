@@ -71,4 +71,4 @@ Com ela, é possível fazer consultas como:
 
 **Consulta: Quantos filmes cada ator cadastrado fez**
 
-![ator e filmes](filme_ator.jpg)
+![ator e filmes](filmes_atores.jpg)
