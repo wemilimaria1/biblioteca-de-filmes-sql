@@ -70,7 +70,7 @@ Com ela, é possível fazer consultas como:
 ![ator e filmes](filmes_atores.jpg)
 
  ## ⚙️ Como usar
-🧩 No MySQL Workbench, abra o Workbench e conecte-se ao seu servidor local. Crie um novo schema,
+🧩 No MySQL Workbench, conecte-se ao seu servidor local. Crie um novo schema,
 importe ou copie e execute: `biblioteca_filmes.sql` depois `consultas_exemplos.sql` e rode as consultas que quiser.
 Se preferir utilizar o Visual Studio Code, instale a extensão MySQL (ou SQLTools), conecte seu banco MySQL local e execute os arquivos .sql diretamente pelo terminal ou pela extensão.
 
